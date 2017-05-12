@@ -9,7 +9,7 @@
 	</parent>
 	
 	<groupId>whitewerx.com</groupId>
-	<artifactId>trapos</artifactId>
+	<artifactId>disruptor-sample-trapos</artifactId>
 	<packaging>jar</packaging>
 
 	<name>Trapos Position built with Netty + Disruptor</name>
